@@ -1,0 +1,9 @@
+.wrapper {
+    max-width: 400px;
+    height: 500px;
+    overflow: scroll;
+}
+
+.list li {
+    height: 25px;
+}
